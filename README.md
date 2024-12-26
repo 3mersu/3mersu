@@ -11,6 +11,6 @@
   </div>
   
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=3mersu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="max-width: 90%;"><img src="https://github-readme-streak-stats.herokuapp.com?user=3mersu&theme=radical" alt="GitHub Streak" style="max-width: 90%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=3mersu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="max-width: 90%; position: relative;"><img src="https://github-readme-streak-stats.herokuapp.com?user=3mersu&theme=radical" alt="GitHub Streak" style="max-width: 90%; position: relative;">
   </div>
 </div>
