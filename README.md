@@ -1,4 +1,4 @@
- <img src="https://github.com/3mersu/3mersu/blob/main/RMfeature.jpg" alt="Featured" style="height: 300px; width:900px;">
+ <img src="https://github.com/3mersu/3mersu/blob/main/RMfeature.jpg" alt="Featured" style="width:900px;">
  <div style="background-color: #121212; color: #f2c627; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
     <img src="https://raw.githubusercontent.com/3mersu/3mersu/172281c1753e359833c760fe0a17577ddaa0d5b7/discord-computer-servers-teamspeak-discord-icon-7471e470615d3630384269610c618b75.png" alt="Discord" style="height: 20px;">
